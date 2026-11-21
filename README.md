@@ -48,6 +48,19 @@ Research interests within the collaborative ALKATA-AI initiative include artific
 
 ---
 
+<table width="100%">
+  <tr>
+    <th align="left" width="30%">Research Area</th>
+    <th align="left" width="70%">Topics</th>
+  </tr>
+  <tr><td>Artificial Intelligence</td><td>Machine Learning, Deep Learning, Generative AI</td></tr>
+  <tr><td>Speech & Audio</td><td>Speech Enhancement, Audio Processing</td></tr>
+  <tr><td>Signal Processing</td><td>Digital Signal Processing, Signal Analysis</td></tr>
+  <tr><td>Wireless Communication</td><td>Wireless Systems, Communication Technologies</td></tr>
+  <tr><td>Information Theory</td><td>Information-Theoretic Methods</td></tr>
+  <tr><td>Physical Layer Security</td><td>Secure Wireless Communications</td></tr>
+</table>
+
 ## 🔬 Research Interests
 
 Our collaborative research interests include:
