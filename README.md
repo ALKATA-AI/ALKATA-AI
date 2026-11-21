@@ -69,6 +69,12 @@ Our collaborative research interests include:
 
 ## 🚀 Featured Projects
 
+| Title | Stars | Technologies |
+|:---:|:---:|:---:|
+| [GSE-Net (ICEE 2026)](https://github.com/ALKATA-AI/GSE-Net) | [![Stars](https://img.shields.io/github/stars/ALKATA-AI/GSE-Net?style=flat&label=stars)](https://github.com/ALKATA-AI/GSE-Net) | [![Paper](https://img.shields.io/badge/Paper-IEEE%20Xplore-black?style=for-the-badge&logo=googlescholar&logoColor=white)](https://ieeexplore.ieee.org/abstract/document/11710484) ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=pytorch&logoColor=EE4C2C) ![CNN](https://img.shields.io/badge/CNN-black?style=for-the-badge) ![Transformers](https://img.shields.io/badge/Transformers-black?style=for-the-badge) ![Attention](https://img.shields.io/badge/Attention-black?style=for-the-badge) |
+
+## 🚀 Featured Projects
+
 <div align="center">
 
 | Project | Research Area | Technologies | Paper |
