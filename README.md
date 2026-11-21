@@ -65,6 +65,11 @@ Our collaborative research interests include:
 
 ## 🚀 Featured Projects
 
+| Title | 
+|---|---|
+| [GSE-Net](https://github.com/ALKATA-AI/GSE-Net) | 
+
+
 ### GSE-Net
 **Multi-Scale Feature Extraction for Single-Channel Speech Enhancement**
 
