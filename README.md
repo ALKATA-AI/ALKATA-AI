@@ -44,7 +44,7 @@ IRIB University
 
 Research interests within the collaborative ALKATA-AI initiative include artificial intelligence, machine learning, deep learning, wireless communication, information theory, and physical layer security.
 
-- Email: Coming soon
+- Email: [lalehtariveh@gmail.com](mailto:lalehtariveh@gmail.com)
 
 ---
 
