@@ -1,3 +1,4 @@
+<h1 align="center">ALKATA</h1>
 <p align="center">
 # ALKATA-AI | Research & Engineering
 </p>
