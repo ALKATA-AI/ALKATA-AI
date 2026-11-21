@@ -52,6 +52,8 @@ Research interests within the collaborative ALKATA-AI initiative include artific
 
 Our collaborative research interests include:
 
+<div align="center">
+
 | Research Area | Topics |
 |:---:|:---:|
 | Artificial Intelligence | Machine Learning, Deep Learning, Generative AI |
@@ -61,13 +63,19 @@ Our collaborative research interests include:
 | Information Theory | Information-Theoretic Methods |
 | Physical Layer Security | Secure Wireless Communications |
 
+</div>
+
 ---
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
 | Project | Research Area | Technologies | Paper |
 |:---:|:---:|:---:|:---:|
 | [GSE-Net](https://github.com/ALKATA-AI/GSE-Net) | Speech Enhancement | Python · PyTorch · CNN · Transformers · Attention | [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/11710484) |
+
+</div>
 
 ---
 
