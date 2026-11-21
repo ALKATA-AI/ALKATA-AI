@@ -1,7 +1,4 @@
-<h1 align="center">ALKATA</h1>
-<p align="center">
-# ALKATA-AI | Research & Engineering
-</p>
+<h1 align="center">ALKATA-AI | Research & Engineering </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=3000&pause=1000&color=35C8F5&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Deep+Learning;Speech+%26+Audio+Processing;Wireless+Communication+%26+Security;Research.+Innovation.+Engineering." alt="Typing SVG" />
