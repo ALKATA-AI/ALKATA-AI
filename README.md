@@ -34,7 +34,7 @@ IRIB University
 - Google Scholar: [Research Profile](https://scholar.google.com/citations?hl=en&user=BMKKioMAAAAJ)
 - Email: [ar.kayednezami@gmail.com](mailto:ar.kayednezami@gmail.com)
 
-### 👩‍💻 Laleh Tariveh
+### 🧕🏻‍💻 Laleh Tariveh
 
 **M.Sc. in Telecommunications Engineering**  
 IRIB University
