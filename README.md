@@ -78,22 +78,6 @@ An official implementation of GSE-Net, a hybrid CNN-attention architecture for s
 
 ---
 
-## 📚 Publications
-
-### Alireza Kayed-Nezami
-
-**GSE-Net: Multi-Scale Feature Extraction for Single-Channel Speech Enhancement**
-
-Alireza Kayed-Nezami, Rahil Mahdian Toroghi, and Hassan Zareian.
-
-*2026 34th International Conference on Electrical Engineering (ICEE), 2026, pp. 299–303.*
-
-- [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/11710484)
-- [Papers with Code](https://paperswithcode.co/paper/131884)
-- DOI: [10.1109/ICEE70628.2026.11710484](https://doi.org/10.1109/ICEE70628.2026.11710484)
-
----
-
 ## 🛠️ Technologies & Tools
 
 *Our technology stack and individual technical skills will be expanded as our projects grow.*
