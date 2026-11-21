@@ -73,7 +73,7 @@ Our collaborative research interests include:
 
 | Project | Research Area | Technologies | Paper |
 |:---:|:---:|:---:|:---:|
-| [GSE-Net ICEE 2026](https://github.com/ALKATA-AI/GSE-Net) | Speech Enhancement | Python · PyTorch · CNN · Transformers · Attention | [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/11710484) |
+| [GSE-Net (ICEE 2026)](https://github.com/ALKATA-AI/GSE-Net) | Speech Enhancement | Python · PyTorch · CNN · Transformers · Attention | [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/11710484) |
 
 </div>
 
