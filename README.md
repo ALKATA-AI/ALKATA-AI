@@ -109,19 +109,6 @@ Alireza Kayed-Nezami, Rahil Mahdian Toroghi, and Hassan Zareian.
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ALKATA-AI&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALKATA-AI&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ALKATA-AI&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📫 Contact & Collaboration
 
 We are always interested in research collaboration, innovative ideas, and opportunities to contribute to the scientific and engineering community.
