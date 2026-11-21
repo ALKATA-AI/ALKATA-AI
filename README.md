@@ -26,7 +26,7 @@
 
 Our work focuses on exploring innovative approaches, developing intelligent algorithms, and translating research ideas into practical implementations.
 
-### 👨‍💻 Alireza Kayed-Nezami
+### 👨‍💻 Alireza KayedNezami
 
 **M.Sc. in Audio Engineering**  
 IRIB University
