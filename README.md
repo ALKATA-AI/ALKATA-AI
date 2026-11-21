@@ -53,7 +53,7 @@ Research interests within the collaborative ALKATA-AI initiative include artific
 Our collaborative research interests include:
 
 | Research Area | Topics |
-|---|---|
+|:---|:---|
 | Artificial Intelligence | Machine Learning, Deep Learning, Generative AI |
 | Speech & Audio | Speech Enhancement, Audio Processing |
 | Signal Processing | Digital Signal Processing, Signal Analysis |
