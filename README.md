@@ -33,7 +33,7 @@ IRIB University
 
 AI Researcher with research interests spanning machine learning, deep learning, generative AI, speech and audio processing, and signal processing.
 
-- GitHub: [@AlirezaKayedNezami](https://github.com/AlirezaKayedNezami)
+- GitHub: [@ALKATA-AI](https://github.com/ALKATA-AI)
 - Google Scholar: [Research Profile](https://scholar.google.com/citations?hl=en&user=BMKKioMAAAAJ)
 - Email: [ar.kayednezami@gmail.com](mailto:ar.kayednezami@gmail.com)
 
