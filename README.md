@@ -68,7 +68,7 @@ Our collaborative research interests include:
 ### GSE-Net
 **Multi-Scale Feature Extraction for Single-Channel Speech Enhancement**
 
-An official implementation of a deep learning architecture combining convolutional neural networks and Transformer-based attention mechanisms for single-channel speech enhancement.
+An official implementation of GSE-Net, a hybrid CNN-attention architecture for single-channel speech enhancement, designed to capture multiscale time–frequency features and long-range dependencies. Evaluated on VoiceBank+DEMAND, it achieves competitive performance in speech intelligibility and perceptual quality.
 
 - Paper: [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/11710484)
 - Source Code: [GitHub Repository](https://github.com/ALKATA-AI/GSE-Net)
