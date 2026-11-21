@@ -31,9 +31,6 @@ Our work focuses on exploring innovative approaches, developing intelligent algo
 **M.Sc. in Audio Engineering**  
 IRIB University
 
-AI Researcher with research interests spanning machine learning, deep learning, generative AI, speech and audio processing, and signal processing.
-
-- GitHub: [@ALKATA-AI](https://github.com/ALKATA-AI)
 - Google Scholar: [Research Profile](https://scholar.google.com/citations?hl=en&user=BMKKioMAAAAJ)
 - Email: [ar.kayednezami@gmail.com](mailto:ar.kayednezami@gmail.com)
 
@@ -42,8 +39,7 @@ AI Researcher with research interests spanning machine learning, deep learning, 
 **M.Sc. in Telecommunications Engineering**  
 IRIB University
 
-Research interests within the collaborative ALKATA-AI initiative include artificial intelligence, machine learning, deep learning, wireless communication, information theory, and physical layer security.
-
+- Google Scholar: Coming Soon!
 - Email: [lalehtariveh@gmail.com](mailto:lalehtariveh@gmail.com)
 
 ---
