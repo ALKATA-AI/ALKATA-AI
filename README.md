@@ -70,9 +70,7 @@ Our collaborative research interests include:
 
 | Title | Stars | Technologies |
 |:---:|:---:|:---:|
-| [GSE-Net (ICEE 2026)](https://github.com/ALKATA-AI/GSE-Net) | [![Stars](https://img.shields.io/github/stars/ALKATA-AI/GSE-Net?style=flat&label=stars)](https://github.com/ALKATA-AI/GSE-Net) | [![IEEE Paper](https://img.shields.io/badge/IEEE-Paper-black?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/abstract/document/11710484) [![Papers with Code](https://img.shields.io/badge/Papers_with_Code-Resources-black?style=for-the-badge&logo=code&logoColor=white)](https://paperswithcode.co/paper/131884) ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-thebadge&logo=pytorch&logoColor=EE4C2C) ![CNN]
-(https://img.shields.io/badge/CNN-black?style=for-the-badge) !
-[Transformers](https://img.shields.io/badge/Transformers-black?style=for-the-badge&logo=huggingface&logoColor=FFD21E) ![Attention](https://img.shields.io/badge/Attention-black?style=for-the-badge) |
+| [GSE-Net (ICEE 2026)](https://github.com/ALKATA-AI/GSE-Net) | [![Stars](https://img.shields.io/github/stars/ALKATA-AI/GSE-Net?style=flat&label=stars)](https://github.com/ALKATA-AI/GSE-Net) | [![IEEE Paper](https://img.shields.io/badge/IEEE-Paper-black?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/abstract/document/11710484) [![Papers with Code](https://img.shields.io/badge/Papers_with_Code-Resources-black?style=for-the-badge&logo=code&logoColor=white)](https://paperswithcode.co/paper/131884) ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=pytorch&logoColor=EE4C2C) ![CNN](https://img.shields.io/badge/CNN-black?style=for-the-badge) ![Transformers](https://img.shields.io/badge/Transformers-black?style=for-the-badge&logo=huggingface&logoColor=FFD21E) ![Attention](https://img.shields.io/badge/Attention-black?style=for-the-badge) |
 
 </div>
 
